@@ -1,0 +1,14 @@
+[14/02/2024 - 01:20:36]: <SYSTEM> ServerChat started
+[14/02/2024 - 01:20:49]: <SYSTEM> [REGISTER]: Registering sasha
+[14/02/2024 - 01:20:58]: <SYSTEM> sasha is trying to connect
+[14/02/2024 - 01:21:00]: <SYSTEM> Authentication success
+[14/02/2024 - 01:21:00]: <SYSTEM> [LOGIN]: Connecting sasha
+[14/02/2024 - 01:21:00]: <SYSTEM> sasha is now connected!
+[14/02/2024 - 01:21:00]: <SYSTEM> [LIST] [sasha]
+[14/02/2024 - 01:21:10]: <SYSTEM> [REGISTER]: Registering test
+[14/02/2024 - 01:21:21]: <SYSTEM> [LOGIN]: Connecting test
+[14/02/2024 - 01:21:21]: <SYSTEM> test is now connected!
+[14/02/2024 - 01:21:21]: <SYSTEM> [LIST] [test]
+[14/02/2024 - 01:21:26]: <SYSTEM> [PRIVMSG] [test -> sasha] yo
+[14/02/2024 - 01:21:29]: <SYSTEM> [LOGOUT]: Disconnecting test
+[14/02/2024 - 01:21:29]: <SYSTEM> test is now disconnected!

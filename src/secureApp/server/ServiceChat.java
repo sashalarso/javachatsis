@@ -351,8 +351,8 @@ public class ServiceChat implements Runnable {
                 this.client.getOut().close();
                 this.socket.close();
             } else {
-                registeredClients.get(isFound).setOut(this.client.getOut()); // update printwriter
-                registeredClients.get(isFound).setSocket(this.client.getSocket()); // update socket
+                registeredClients.get(isFound).setOut(this.client.getOut()); 
+                registeredClients.get(isFound).setSocket(this.client.getSocket()); 
                 this.client = registeredClients.get(isFound);
 
                 this.client.getOut().println("<SYSTEM> Connected as: " + this.client.getUsername());
